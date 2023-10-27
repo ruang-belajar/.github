@@ -1,2 +1,1 @@
-# .github
-Repositori Materi Kuliah
+# Repositori Materi Kuliah
